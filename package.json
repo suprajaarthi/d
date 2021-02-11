@@ -1,0 +1,31 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.14",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suprajaarthi/node.js-url-shortener"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/suprajaarthi/node.js-url-shortener/issues"
+  },
+  "homepage": "https://github.com/suprajaarthi/node.js-url-shortener#readme",
+  "description": ""
+}
