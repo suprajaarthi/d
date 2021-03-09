@@ -1,7 +1,6 @@
-# url-shrinker
 # node.js-url-shortener
-<img src="URL shortener.png">
 
+<img src="URL shortener.png">
 
 Simple url shortening website using node, express, mongodb 
 
