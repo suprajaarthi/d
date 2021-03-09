@@ -13,9 +13,9 @@ Install express,mongoose using npm command
 
 Open http://localhost:5000/ 
 
-Install mongodb from mongodb.com 
+Install mongodb from http://mongodb.com 
 
-Install robo3T from robomongo.org 
+Install robo3T from http://robomongo.org 
 
 Create a new mongodb connection 
 
